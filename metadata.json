@@ -1,0 +1,7 @@
+{
+  "name": "Our Voice, Our Rights: MGNREGA Dashboard",
+  "description": "An accessible web application for citizens to easily understand the performance of the MGNREGA program in their district. It features a simple, visual interface with audio assistance, designed for a low-literacy audience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
